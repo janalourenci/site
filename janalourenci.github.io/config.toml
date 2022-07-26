@@ -13,7 +13,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
-        url = "mailto:dilourenco.janaina@estudante.ufjf.br"
+        url = "mailto:janadilourenco@gmail.com"
 
     [[params.links]]
         icon = "linkedin"
