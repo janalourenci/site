@@ -16,11 +16,20 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         url = "mailto:dilourenco.janaina@estudante.ufjf.br"
 
     [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/janalourenci"
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/janaina-di-lourenco-esteves"
 
     [[params.links]]
-        icon = "twitter"
-        title = "Twitter"
-        url = "https://twitter.com/janalourenci"
+        iconorigin = "ai"
+        iconset = "ai"
+        icon = "academia"
+        title = "Academia.edu
+        url = "https://scholar.google.com"
+
+    [[params.links]]
+        iconorigin = "ai"
+        iconset = "ai"
+        icon = "lattes"
+        title = "Lattes"
+        url = "https://scholar.google.com"
