@@ -24,12 +24,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         iconorigin = "ai"
         iconset = "ai"
         icon = "academia"
-        title = "Academia.edu
-        url = "https://scholar.google.com"
+        title = "Academia.edu"
+        url = "https://ufrj.academia.edu/Jana%C3%ADnaDiLouren%C3%A7o"
 
     [[params.links]]
         iconorigin = "ai"
         iconset = "ai"
         icon = "lattes"
         title = "Lattes"
-        url = "https://scholar.google.com"
+        url = "http://lattes.cnpq.br/0085162393782572"
