@@ -12,7 +12,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
     [[params.links]]
         iconset = "fas"
         icon = "envelope"
-        title = "E-mail"
+        title = "E-mail: janadilourenco@gmail.com"
         url = "mailto:janadilourenco@gmail.com"
 
     [[params.links]]
